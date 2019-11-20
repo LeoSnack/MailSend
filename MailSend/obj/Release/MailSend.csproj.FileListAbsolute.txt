@@ -1,0 +1,10 @@
+d:\Project\MailSend\MailSend\bin\Release\MailSend.exe.config
+d:\Project\MailSend\MailSend\bin\Release\MailSend.exe
+d:\Project\MailSend\MailSend\bin\Release\MailSend.pdb
+d:\Project\MailSend\MailSend\obj\Release\MailSend.Form1.resources
+d:\Project\MailSend\MailSend\obj\Release\MailSend.Properties.Resources.resources
+d:\Project\MailSend\MailSend\obj\Release\MailSend.csproj.GenerateResource.Cache
+d:\Project\MailSend\MailSend\obj\Release\MailSend.csproj.CoreCompileInputs.cache
+d:\Project\MailSend\MailSend\obj\Release\MailSend.exe
+d:\Project\MailSend\MailSend\obj\Release\MailSend.pdb
+d:\Project\MailSend\MailSend\obj\Release\MailSend.csprojAssemblyReference.cache
